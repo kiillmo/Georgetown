@@ -29,6 +29,7 @@ In this notebook, I revisited the data from my “Xmas Everything” store. Year
 **File:** ['Local LLM RAG Project`](Local%20LLM%20RAG%20Project)
 
 A few weeks ago my manager informed me that our company was looking to implement AI at the company and were receiving quotes from vendors to build an in-house LLM. I thought it would be interesting to present to them on how LLMs work, and even provide them with alternatives to what these vendors are offering. A meeting is in the works for me to show them everything from custom GPTs on closed-sourced websites to locally run LLMs using open-sourced models and even a server run model using AWS' Bedrock. Attached to this GitHub will be a very basic initial look at the locally run LLM that I built. It runs on llama 3.2 3B and utilizes RAG to retrieve data about the ASI Methodology, a process improvement methodology developed by me and my colleague, Michael. On the front end, streamlit was used to provide a user-friendly interface for queries.
+
 ---
 
 ## Closing Thoughts
