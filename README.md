@@ -25,6 +25,9 @@ This is perhaps my favorite project. I trained a lunar lander agent using reinfo
 
 In this notebook, I revisited the data from my “Xmas Everything” store. Years ago, I relied mostly on basic analytics. Now, equipped with a broader data science toolkit, I reanalyze those metrics with more advanced techniques. It was both nostalgic and revelatory to see how far I’ve come. I hope this project demonstrates not only my current skills, but also my growth and adaptability over time.
 
+### 5. Local LLM utilizing RAG
+
+A few weeks ago my manager informed me that our company was looking to implement AI at the company and were receiving quotes from vendors to build an in-house LLM. I thought it would be interesting to present to them on how LLMs work, and even provide them with alternatives to what these vendors are offering. A meeting is in the works for me to show them everything from custom GPTs on closed-sourced websites to locally run LLMs using open-sourced models and even a server run model using AWS' Bedrock. Attached to this GitHub will be a very basic initial look at the locally run LLM that I built. It runs on llama 3.2 3B and utilizes RAG to retrieve data about the ASI Methodology, a process improvement methodology developed by me and my colleague, Michael. On the front end, streamlit was used to provide a user-friendly interface for queries.
 ---
 
 ## Closing Thoughts
